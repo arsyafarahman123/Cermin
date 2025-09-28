@@ -51,16 +51,15 @@ Dengan alur yang terintegrasi mulai dari pendaftaran, pembayaran, kehadiran, hin
 - **Midtrans**  
 
 ### Metode Tersedia  
-- **QRIS** – metode utama, praktis & mudah digunakan peserta  
-- **Transfer Bank** – BCA, Mandiri, BRI, BNI, dan lainnya  
+- **QRIS** – metode utama, cepat & mudah digunakan peserta  
 - **E-Wallet** – GoPay, OVO, Dana, ShopeePay  
-- **Kartu Debit/Kredit** – Visa & Mastercard  
+- **Transfer Bank** – BCA, Mandiri, BRI, BNI, dll  
 
 ### Alur Pembayaran  
 1. Peserta memilih metode pembayaran saat checkout  
 2. Sistem membuat transaksi dengan kode unik atau QRIS  
 3. Midtrans memverifikasi pembayaran secara otomatis  
-4. Status pendaftaran diperbarui, dan tiket digital langsung terkirim ke email peserta  
+4. Tiket digital dikirim ke peserta melalui **Email** dan **WhatsApp**  
 
 ---
 
