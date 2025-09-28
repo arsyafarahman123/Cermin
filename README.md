@@ -1,4 +1,4 @@
-# Certinaris – Platform Seminar Digital  
+# Cermin - Certificate Made Instantly
 
 ## 👥 Anggota Kelompok  
 1. 2311102032 – Muhammad Rifki Fadhilah  
@@ -9,13 +9,13 @@
 ---
 
 ## 📌 Deskripsi Proyek  
-**Certinaris**  merupakan sebuah aplikasi berbasis web yang dikembangkan untuk mendukung pengelolaan seminar secara menyeluruh. Platform ini dirancang dengan konsep satu sistem yang menampung banyak seminar, sehingga siapa pun dapat berperan sebagai penyelenggara maupun peserta.  
+**Cermin**  merupakan sebuah aplikasi berbasis web yang dikembangkan untuk mendukung pengelolaan seminar secara menyeluruh. Platform ini dirancang dengan konsep satu sistem yang menampung banyak seminar, sehingga siapa pun dapat berperan sebagai penyelenggara maupun peserta.  
 
-Bagi penyelenggara, Certinaris menyediakan kemudahan dalam membuat dan mempublikasikan seminar, mengatur kapasitas, menentukan biaya pendaftaran, serta memantau data peserta. Sementara bagi peserta, proses pendaftaran dibuat sederhana karena dapat dilakukan tanpa akun (guest checkout). Peserta cukup mengisi data diri dan email, kemudian melanjutkan ke tahap pembayaran.
+Bagi penyelenggara, Cermin menyediakan kemudahan dalam membuat dan mempublikasikan seminar, mengatur kapasitas, menentukan biaya pendaftaran, serta memantau data peserta. Sementara bagi peserta, proses pendaftaran dibuat sederhana karena dapat dilakukan tanpa akun (guest checkout). Peserta cukup mengisi data diri dan email, kemudian melanjutkan ke tahap pembayaran.
 
 Setelah pembayaran terverifikasi, sistem akan mengirimkan tiket digital yang dilengkapi dengan QR Code untuk kehadiran. Pada saat seminar berlangsung, QR Code tersebut dipindai sebagai bukti kehadiran. Peserta yang hadir akan secara otomatis menerima sertifikat digital yang dikirimkan melalui email.
 
-Dengan alur yang terintegrasi mulai dari pendaftaran, pembayaran, kehadiran, hingga penerbitan sertifikat, Certinaris diharapkan mampu meningkatkan efisiensi penyelenggaraan seminar sekaligus memberikan pengalaman yang lebih praktis dan transparan bagi peserta.
+Dengan alur yang terintegrasi mulai dari pendaftaran, pembayaran, kehadiran, hingga penerbitan sertifikat, Cermin diharapkan mampu meningkatkan efisiensi penyelenggaraan seminar sekaligus memberikan pengalaman yang lebih praktis dan transparan bagi peserta.
 ---
 
 ## 🎯 Tujuan  
@@ -58,10 +58,13 @@ Dengan alur yang terintegrasi mulai dari pendaftaran, pembayaran, kehadiran, hin
 ### Alur Pembayaran  
 1. Peserta memilih metode pembayaran saat checkout  
 2. Sistem membuat transaksi dengan kode unik atau QRIS  
-3. Midtrans memverifikasi pembayaran secara otomatis  
-4. Tiket digital dikirim ke peserta melalui **Email** dan **WhatsApp**  
+3. Peserta wajib menyelesaikan pembayaran sebelum **batas waktu (±1 jam)** yang ditentukan  
+4. Midtrans memverifikasi pembayaran secara otomatis  
+5. Status pendaftaran diperbarui setelah pembayaran berhasil  
+6. Tiket digital dikirim ke peserta melalui **Email** dan **WhatsApp**  
+
 
 ---
 
 ## 📖 Kesimpulan  
-Dengan **Certinaris**, seluruh alur seminar – mulai dari pendaftaran, pembayaran, kehadiran, hingga penerbitan sertifikat – dapat dilakukan secara otomatis dan terintegrasi. Platform ini diharapkan mampu memberikan solusi efisien bagi penyelenggara seminar dan pengalaman yang lebih praktis bagi peserta.
+Dengan **Cermin**, seluruh alur seminar – mulai dari pendaftaran, pembayaran, kehadiran, hingga penerbitan sertifikat – dapat dilakukan secara otomatis dan terintegrasi. Platform ini diharapkan mampu memberikan solusi efisien bagi penyelenggara seminar dan pengalaman yang lebih praktis bagi peserta.
