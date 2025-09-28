@@ -7,7 +7,17 @@
 4. 2311102152 – Arsya Fathiha Rahman  
 
 ---
+## 👨‍💻 Jobdesk Anggota  
 
+- **2311102032 – Muhammad Rifki Fadhilah (Desain)**  
+
+- **2311102050 – Galih Trisna (Backend)**  
+
+- **2311102135 – Amelia Azmi (Testing)**  
+
+- **2311102152 – Arsya Fathiha Rahman (Frontend)**  
+
+---
 ## 📌 Deskripsi Proyek  
 **Cermin**  merupakan sebuah aplikasi berbasis web yang dikembangkan untuk mendukung pengelolaan seminar secara menyeluruh. Platform ini dirancang dengan konsep satu sistem yang menampung banyak seminar, sehingga siapa pun dapat berperan sebagai penyelenggara maupun peserta.  
 
