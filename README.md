@@ -9,7 +9,7 @@
 ---
 
 ## 📌 Deskripsi Proyek  
-**Certinaris** Certinaris merupakan sebuah aplikasi berbasis web yang dikembangkan untuk mendukung pengelolaan seminar secara menyeluruh. Platform ini dirancang dengan konsep satu sistem yang menampung banyak seminar, sehingga siapa pun dapat berperan sebagai penyelenggara maupun peserta.  
+**Certinaris**  merupakan sebuah aplikasi berbasis web yang dikembangkan untuk mendukung pengelolaan seminar secara menyeluruh. Platform ini dirancang dengan konsep satu sistem yang menampung banyak seminar, sehingga siapa pun dapat berperan sebagai penyelenggara maupun peserta.  
 
 Bagi penyelenggara, Certinaris menyediakan kemudahan dalam membuat dan mempublikasikan seminar, mengatur kapasitas, menentukan biaya pendaftaran, serta memantau data peserta. Sementara bagi peserta, proses pendaftaran dibuat sederhana karena dapat dilakukan tanpa akun (guest checkout). Peserta cukup mengisi data diri dan email, kemudian melanjutkan ke tahap pembayaran.
 
