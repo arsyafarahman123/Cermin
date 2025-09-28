@@ -30,11 +30,11 @@ Dengan alur yang terintegrasi mulai dari pendaftaran, pembayaran, kehadiran, hin
 ## ⚙️ Teknologi yang Digunakan  
 - **Next.js** – frontend & backend (API route)  
 - **Vercel** – hosting & deployment  
-- **Supabase (Postgres, Auth, Storage)** – basis data & autentikasi  
-- **Midtrans/Xendit** – payment gateway  
+- **Supabase (Postgres, Auth, Storage)** – basis data, autentikasi, dan penyimpanan
+- **Midtrans/Xendit** – payment gateway untuk transaksi online
 - **Tailwind CSS + shadcn/ui** – styling responsif  
-- **Resend/SMTP** – pengiriman email  
-- **QR Code & PDF Generator** – tiket dan sertifikat digital  
+- **Resend/SMTP** – layanan pengiriman email  
+- **QR Code & PDF Generator** – pembuatan tiket dan sertifikat digital  
 
 ---
 
@@ -44,7 +44,23 @@ Dengan alur yang terintegrasi mulai dari pendaftaran, pembayaran, kehadiran, hin
 - Pembayaran otomatis terintegrasi.  
 - Tiket digital dengan QR Code unik.  
 - Verifikasi kehadiran via scan QR.  
-- Sertifikat otomatis dengan halaman verifikasi publik.  
+- Sertifikat otomatis dengan halaman verifikasi publik.
+  
+## 💳 Sistem Pembayaran  
+### Gateway  
+- **Midtrans**  
+
+### Metode Tersedia  
+- **QRIS** – metode utama, praktis & mudah digunakan peserta  
+- **Transfer Bank** – BCA, Mandiri, BRI, BNI, dan lainnya  
+- **E-Wallet** – GoPay, OVO, Dana, ShopeePay  
+- **Kartu Debit/Kredit** – Visa & Mastercard  
+
+### Alur Pembayaran  
+1. Peserta memilih metode pembayaran saat checkout  
+2. Sistem membuat transaksi dengan kode unik atau QRIS  
+3. Midtrans memverifikasi pembayaran secara otomatis  
+4. Status pendaftaran diperbarui, dan tiket digital langsung terkirim ke email peserta  
 
 ---
 
